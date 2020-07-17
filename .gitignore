@@ -175,3 +175,4 @@ Project Logs for */
 *.DBLink
 # Altium Database Link File
 
+/REF
