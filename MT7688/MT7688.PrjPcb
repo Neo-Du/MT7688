@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BQIZXSAU
 
 [Document6]
+DocumentPath=Part05_DDR2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KTISNBHZ
+
+[Document7]
 DocumentPath=MT7688.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGOHUNMY
 
-[Document7]
+[Document8]
 DocumentPath=MT7688_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMIAFREX
 
-[Document8]
+[Document9]
 DocumentPath=MT7688_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
