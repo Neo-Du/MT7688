@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -55,13 +55,30 @@ GenerateClassCluster=0
 DocumentUniqueId=LPROUYBF
 
 [Document2]
-DocumentPath=Part01_MT7688_RF.SchDoc
+DocumentPath=MT7688_SOC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIHBXULP
+
+[Document3]
+DocumentPath=Part01_MT7688_RF.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -71,14 +88,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOCWTVSN
 
-[Document3]
+[Document4]
 DocumentPath=Part02_MT7688_DDR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -88,14 +105,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUACCGYG
 
-[Document4]
+[Document5]
 DocumentPath=Part03_MT7688_Peripheral.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -105,14 +122,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNRAQFMN
 
-[Document5]
+[Document6]
 DocumentPath=Part04_MT7688_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -122,14 +139,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQIZXSAU
 
-[Document6]
+[Document7]
 DocumentPath=Part05_DDR2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -139,14 +156,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTISNBHZ
 
-[Document7]
+[Document8]
 DocumentPath=Part06_DIP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -156,14 +173,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECBZGXRF
 
-[Document8]
+[Document9]
 DocumentPath=Part07_NorFlash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -173,14 +190,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGOWUFJX
 
-[Document9]
+[Document10]
 DocumentPath=Part08_Reset.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -190,7 +207,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICUXDRRA
 
-[Document10]
+[Document11]
+DocumentPath=Part09_Config.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DDTUSPEU
+
+[Document12]
 DocumentPath=MT7688.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGOHUNMY
 
-[Document11]
+[Document13]
 DocumentPath=MT7688_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMIAFREX
 
-[Document12]
+[Document14]
 DocumentPath=MT7688_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,8 +275,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNNRXFKW
 
-[Document13]
-DocumentPath=Part09_Config.SchDoc
+[Document15]
+DocumentPath=Part05_DDR2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -256,7 +290,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DDTUSPEU
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=Part02_MT7688_DDR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=Part09_Config.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
