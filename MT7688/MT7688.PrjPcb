@@ -514,23 +514,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=Part14_SPI_ST7735.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MVUFSDVR
-
-[Document30]
 DocumentPath=Part15_I2C_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVZYEBCW
 
-[Document31]
+[Document30]
 DocumentPath=Part16_I2C_MPU9250.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQUBHGLS
 
-[Document32]
+[Document31]
 DocumentPath=Part17_I2C_SHT30.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYHSTCQK
 
-[Document33]
+[Document32]
 DocumentPath=Part18_I2C_IO_Expander.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPWFMMFP
 
-[Document34]
+[Document33]
 DocumentPath=Part15_I2C_LED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=Part16_I2C_MPU9250.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=Part17_I2C_SHT30.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=Part18_I2C_IO_Expander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=Part19_UART_CP2104.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFOKVMYK
 
-[Document39]
+[Document38]
 DocumentPath=Part19_UART_CP2104.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=Part20_UART_BLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWNSQXTB
 
-[Document41]
+[Document40]
 DocumentPath=Part21_UART_ZigBee.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKEOQBSR
 
-[Document42]
+[Document41]
 DocumentPath=Part20_UART_BLE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=Part21_UART_ZigBee.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=Part22_ETH_WAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYXBVLM
 
-[Document45]
+[Document44]
 DocumentPath=Part23_ETH_LAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCGMZEGL
 
-[Document46]
+[Document45]
 DocumentPath=Part24_PCIE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRQZWZEH
 
-[Document47]
+[Document46]
 DocumentPath=Part25_Button_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCRPRMBZ
 
-[Document48]
+[Document47]
 DocumentPath=Part22_ETH_WAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=Part23_ETH_LAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=D:\Software_data_base\AD\AD_LL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -885,9 +868,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QKNOGAVW
 
-[Document51]
+[Document50]
 DocumentPath=D:\Software_data_base\AD\AD_LL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -903,6 +886,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIWUKJYY
+
+[Document51]
+DocumentPath=Part14_SPI_ST7789.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=27
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MVUFSDVR
+
+[Document52]
+DocumentPath=Part14_SPI_ST7789.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MT7688\Design Rule Check - MT7688.html
@@ -1913,70 +1930,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=LED.IntLib
-ComponentDesignItemID0=LED
-ComponentSymbolReference0=LED
+ComponentLibraryIdentifier0=MT7688_Lib.SchLib
+ComponentDesignItemID0=LCD_ST7789
+ComponentSymbolReference0=LCD_ST7789
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=MT7688_Lib.SchLib
-ComponentDesignItemID1=DDR2_W9751G6KB
-ComponentSymbolReference1=DDR2_W9751G6KB
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=MT7688_Lib.SchLib
-ComponentDesignItemID2=MT7688AN
-ComponentSymbolReference2=MT7688AN
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=MT7688_Lib.SchLib
-ComponentDesignItemID3=W25Q128
-ComponentSymbolReference3=W25Q128
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=电感.IntLib
-ComponentDesignItemID4=INDUCTOR
-ComponentSymbolReference4=INDUCTOR
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=电容.IntLib
-ComponentDesignItemID5=CAP
-ComponentSymbolReference5=CAP
-ComponentUpdate5=0
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=电容.IntLib
-ComponentDesignItemID6=TCAP
-ComponentSymbolReference6=TCAP
-ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=电阻.IntLib
-ComponentDesignItemID7=RES
-ComponentSymbolReference7=RES
-ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=晶振.IntLib
-ComponentDesignItemID8=XTAL-4P
-ComponentSymbolReference8=XTAL-4P
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=天线座.IntLib
-ComponentDesignItemID9=IPEX
-ComponentSymbolReference9=IPEX
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1994,364 +1957,15 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=ComponentLink1Description
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=ComponentLink1URL
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=DatasheetDocument
-ParameterUpdate4=1
-ParameterName5=Description
-ParameterUpdate5=1
-ParameterName6=DrillSize
-ParameterUpdate6=1
-ParameterName7=LatestRevisionDate
-ParameterUpdate7=1
-ParameterName8=LatestRevisionNote
-ParameterUpdate8=1
-ParameterName9=Library Reference
-ParameterUpdate9=1
-ParameterName10=PackageDocument
-ParameterUpdate10=1
-ParameterName11=PackageReference
-ParameterUpdate11=1
-ParameterName12=PCB_Layout
-ParameterUpdate12=1
-ParameterName13=Published
-ParameterUpdate13=1
-ParameterName14=Publisher
-ParameterUpdate14=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0201C
+ModelName0=ST7789_1.3inch_IPS_TFT
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=0201R
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=0402C
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=0402L
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=0402R
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=0603C
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=0603L
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=0603R
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=0630L
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=0805C
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=0805L
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=0805R
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=1206C
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=1206R
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=1210C
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=1210L
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=1806L
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=1808C
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=1812C
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=1812L
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=1812R
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=1825C
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=1WLED
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=2010R
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=2225C
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=2512R
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=AL0204
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=AL0204_V
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=AL0307
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=AL0307_V
-ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=AL0410
-ModelUpdate30=1
-ModelType31=PCBLIB
-ModelName31=AL0410_V
-ModelUpdate31=1
-ModelType32=PCBLIB
-ModelName32=AL0510
-ModelUpdate32=1
-ModelType33=PCBLIB
-ModelName33=AL0510_V
-ModelUpdate33=1
-ModelType34=PCBLIB
-ModelName34=AXIAL0.3
-ModelUpdate34=1
-ModelType35=PCBLIB
-ModelName35=AXIAL0.4
-ModelUpdate35=1
-ModelType36=PCBLIB
-ModelName36=AXIAL0.5
-ModelUpdate36=1
-ModelType37=PCBLIB
-ModelName37=AXIAL0.6
-ModelUpdate37=1
-ModelType38=PCBLIB
-ModelName38=AXIAL0.7
-ModelUpdate38=1
-ModelType39=PCBLIB
-ModelName39=AXIAL0.8
-ModelUpdate39=1
-ModelType40=PCBLIB
-ModelName40=AXIAL0.9
-ModelUpdate40=1
-ModelType41=PCBLIB
-ModelName41=AXIAL1.0
-ModelUpdate41=1
-ModelType42=PCBLIB
-ModelName42=CD104
-ModelUpdate42=1
-ModelType43=PCBLIB
-ModelName43=CD105
-ModelUpdate43=1
-ModelType44=PCBLIB
-ModelName44=CD106
-ModelUpdate44=1
-ModelType45=PCBLIB
-ModelName45=CD31
-ModelUpdate45=1
-ModelType46=PCBLIB
-ModelName46=CD32
-ModelUpdate46=1
-ModelType47=PCBLIB
-ModelName47=CD42
-ModelUpdate47=1
-ModelType48=PCBLIB
-ModelName48=CD43
-ModelUpdate48=1
-ModelType49=PCBLIB
-ModelName49=CD52
-ModelUpdate49=1
-ModelType50=PCBLIB
-ModelName50=CD53
-ModelUpdate50=1
-ModelType51=PCBLIB
-ModelName51=CD54
-ModelUpdate51=1
-ModelType52=PCBLIB
-ModelName52=CD75
-ModelUpdate52=1
-ModelType53=PCBLIB
-ModelName53=CDRH124
-ModelUpdate53=1
-ModelType54=PCBLIB
-ModelName54=CDRH125
-ModelUpdate54=1
-ModelType55=PCBLIB
-ModelName55=CDRH127
-ModelUpdate55=1
-ModelType56=PCBLIB
-ModelName56=CDRH129
-ModelUpdate56=1
-ModelType57=PCBLIB
-ModelName57=CDRH73
-ModelUpdate57=1
-ModelType58=PCBLIB
-ModelName58=CDRH74
-ModelUpdate58=1
-ModelType59=PCBLIB
-ModelName59=IPEX
-ModelUpdate59=1
-ModelType60=PCBLIB
-ModelName60=L 0630
-ModelUpdate60=1
-ModelType61=PCBLIB
-ModelName61=LED-0603B
-ModelUpdate61=1
-ModelType62=PCBLIB
-ModelName62=LED-0603G
-ModelUpdate62=1
-ModelType63=PCBLIB
-ModelName63=LED-0603W
-ModelUpdate63=1
-ModelType64=PCBLIB
-ModelName64=LED-0603Y
-ModelUpdate64=1
-ModelType65=PCBLIB
-ModelName65=LED-0805B
-ModelUpdate65=1
-ModelType66=PCBLIB
-ModelName66=LED-0805G
-ModelUpdate66=1
-ModelType67=PCBLIB
-ModelName67=LED-0805R
-ModelUpdate67=1
-ModelType68=PCBLIB
-ModelName68=LED-0805Y
-ModelUpdate68=1
-ModelType69=PCBLIB
-ModelName69=LED-1206B
-ModelUpdate69=1
-ModelType70=PCBLIB
-ModelName70=LED-1206G
-ModelUpdate70=1
-ModelType71=PCBLIB
-ModelName71=LED-1206R
-ModelUpdate71=1
-ModelType72=PCBLIB
-ModelName72=LED-1206W
-ModelUpdate72=1
-ModelType73=PCBLIB
-ModelName73=LED-1206Y
-ModelUpdate73=1
-ModelType74=PCBLIB
-ModelName74=LED3-BLUE
-ModelUpdate74=1
-ModelType75=PCBLIB
-ModelName75=LED3-GRE
-ModelUpdate75=1
-ModelType76=PCBLIB
-ModelName76=LED3-RED
-ModelUpdate76=1
-ModelType77=PCBLIB
-ModelName77=LED3-YEL
-ModelUpdate77=1
-ModelType78=PCBLIB
-ModelName78=LED5-BLUE
-ModelUpdate78=1
-ModelType79=PCBLIB
-ModelName79=LED5-GRE
-ModelUpdate79=1
-ModelType80=PCBLIB
-ModelName80=LED5-RED
-ModelUpdate80=1
-ModelType81=PCBLIB
-ModelName81=LED5-YEL
-ModelUpdate81=1
-ModelType82=PCBLIB
-ModelName82=MICT-RT-84
-ModelUpdate82=1
-ModelType83=PCBLIB
-ModelName83=Model Name
-ModelUpdate83=1
-ModelType84=PCBLIB
-ModelName84=MT7628AN$2F$DRQFN156$2F$SMD$2F$P0.5$2F$12X12
-ModelUpdate84=1
-ModelType85=PCBLIB
-ModelName85=NR3015
-ModelUpdate85=1
-ModelType86=PCBLIB
-ModelName86=OSC 1612-4P
-ModelUpdate86=1
-ModelType87=PCBLIB
-ModelName87=OSC 2025-4P
-ModelUpdate87=1
-ModelType88=PCBLIB
-ModelName88=OSC 3225-4P
-ModelUpdate88=1
-ModelType89=PCBLIB
-ModelName89=OSC 4025-4P
-ModelUpdate89=1
-ModelType90=PCBLIB
-ModelName90=OSC 5032-4P
-ModelUpdate90=1
-ModelType91=PCBLIB
-ModelName91=OSC 6035-4P
-ModelUpdate91=1
-ModelType92=PCBLIB
-ModelName92=OSC 7050-4P
-ModelUpdate92=1
-ModelType93=PCBLIB
-ModelName93=OSC 8045-4P
-ModelUpdate93=1
-ModelType94=PCBLIB
-ModelName94=OSC 8045-4P-C
-ModelUpdate94=1
-ModelType95=PCBLIB
-ModelName95=PK0406
-ModelUpdate95=1
-ModelType96=PCBLIB
-ModelName96=PK0608
-ModelUpdate96=1
-ModelType97=PCBLIB
-ModelName97=PK0810
-ModelUpdate97=1
-ModelType98=PCBLIB
-ModelName98=PK0912
-ModelUpdate98=1
-ModelType99=PCBLIB
-ModelName99=PK1012
-ModelUpdate99=1
-ModelType100=PCBLIB
-ModelName100=PK1415
-ModelUpdate100=1
-ModelType101=PCBLIB
-ModelName101=PK1618
-ModelUpdate101=1
-ModelType102=PCBLIB
-ModelName102=PK1818
-ModelUpdate102=1
-ModelType103=PCBLIB
-ModelName103=RAD-0.2
-ModelUpdate103=1
-ModelType104=PCBLIB
-ModelName104=RAD-0.3
-ModelUpdate104=1
-ModelType105=PCBLIB
-ModelName105=SOP8
-ModelUpdate105=1
-ModelType106=PCBLIB
-ModelName106=TAJ-A/3216
-ModelUpdate106=1
-ModelType107=PCBLIB
-ModelName107=TAJ-B/3528
-ModelUpdate107=1
-ModelType108=PCBLIB
-ModelName108=TAJ-C/6032
-ModelUpdate108=1
-ModelType109=PCBLIB
-ModelName109=TAJ-D/7343
-ModelUpdate109=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
